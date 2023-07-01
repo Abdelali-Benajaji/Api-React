@@ -1,0 +1,40 @@
+{
+    "books": [
+      {
+        "title": "The Adventures of ChatGPT",
+        "pageNumber": 320,
+        "description": "Join ChatGPT on an exciting journey through the realms of artificial intelligence and language modeling.",
+        "image": "/imgs/b1.png",
+        "category": "Science Fiction"
+      },
+      {
+        "title": "The Secret Garden",
+        "pageNumber": 272,
+        "description": "Discover the magical world hidden within the walls of a secret garden.",
+        "image": "/imgs/b2.jpg",
+        "category": "Children's Literature"
+      },
+      {
+        "title": "The Art of War",
+        "pageNumber": 256,
+        "description": "An ancient Chinese treatise on military strategy and tactics.",
+        "image": "/imgs/b3.jpg",
+        "category": "Non-fiction"
+      },
+      {
+        "title": "Pride and Prejudice",
+        "pageNumber": 432,
+        "description": "Jane Austen's classic novel of love, marriage, and societal expectations.",
+        "image": "/imgs/b4.jpg",
+        "category": "Fiction"
+      },
+      {
+        "title": "The Hitchhiker's Guide to the Galaxy",
+        "pageNumber": 224,
+        "description": "Embark on a hilarious interstellar adventure with Arthur Dent and his trusty guidebook.",
+        "image": "/imgs/b5.jpg",
+        "category": "Science Fiction"
+      }
+    ]
+  }
+  
